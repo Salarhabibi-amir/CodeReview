@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Mobile First Project] <a name="about-project"></a>
+# 📖 [Trials Project] <a name="about-project"></a>
 
-I am starting this project to Creat my own Portfolio.
+It is only to learn reviewing cods.
 
 ## 🛠 Built With <a name="built-with"></a>
 
